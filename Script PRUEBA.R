@@ -9,3 +9,4 @@ library(tidyverse)
 A <- 2
 B <- 3
 C <- A+B
+D <- C*A
